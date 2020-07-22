@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name arty-a7-expansion)(type Legacy)(uri ${KIPRJMOD}/lib/arty-a7-expansion.lib)(options "")(descr ""))
+  (lib (name icicle-hdmi-breakout)(type Legacy)(uri ${KIPRJMOD}/lib/icicle-hdmi-breakout.lib)(options "")(descr ""))
+)
