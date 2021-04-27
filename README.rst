@@ -14,7 +14,7 @@ The design files were created in KiCad.
 The expansion board breaks out an HDMI interface on a regular HDMI connector.
 The TMDS data going out of this connector are connected to the FPGA fabric in `MPFS250T-FCVG484EES <https://www.microsemi.com/document-portal/doc_download/1244583-polarfire-soc-advance-datasheet>`_ PolarFire SoC.
 The expansion board should be connected to the ``J26`` expansion connector on the Icicle board.
-For more information regarding the electrical connections please refer to the schematic sheets and compare them against the `offcial documentation <://www.microsemi.com/product-directory/soc-fpgas/5498-polarfire-soc-fpga#resources>`_ of the PolarFire Icicle kit.
+For more information regarding the electrical connections please refer to the schematic sheets and compare them against the `offcial documentation <https://www.microsemi.com/product-directory/soc-fpgas/5498-polarfire-soc-fpga#resources>`_ of the PolarFire Icicle kit.
 
 Repository structure
 --------------------
